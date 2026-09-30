@@ -1,0 +1,6 @@
+{
+  "name": "Agro Baadshah — Agricultural Pesticides & Agri-Inputs",
+  "description": "Agro Baadshah is Pakistan's premier agricultural pesticides and agri-inputs store located in Main Gallah Mandi, Khanpur, Rahim Yar Khan, providing quality crop protection and farmer solutions nationwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
